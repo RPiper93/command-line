@@ -1,0 +1,4 @@
+The command grep searches within a file. It takes two parameters:
+    - what you want to search for
+    - what files you want to search
+eg. grep <search> <files>
