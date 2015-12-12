@@ -1,0 +1,4 @@
+The mv command stands for 'move' and it can be used to move a file from one directory to another (eg. mv <file> <~/directory/file>).
+It has two parameters: - the file to be moved
+                       - where the file will be moved to
+It can also be used to rename a file.
