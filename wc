@@ -1,0 +1,3 @@
+The command wc stands for 'word count'. It takes one parameter, what you want to be counted, and it returns the line, word and character
+counts.
+eg. wc <file>
